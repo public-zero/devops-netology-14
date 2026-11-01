@@ -20,3 +20,5 @@
 - файл `terraform.rc`.
 
 VS Code commit 1
+
+VS Code commit 2
