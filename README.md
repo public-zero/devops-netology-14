@@ -19,4 +19,4 @@
 - файл `.terraformrc`;
 - файл `terraform.rc`.
 
-
+VS Code commit 1
