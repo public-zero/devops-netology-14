@@ -13,3 +13,4 @@
 - временные lock-файлы;
 - файлы конфигурации Terraform CLI.
 
+fix branch change
