@@ -333,3 +333,24 @@ https://github.com/public-zero/devops-netology-14
 GitLab:
 
 https://gitlab.com/public-zero/devops-netology
+
+
+---
+
+## Доработка задания 3
+
+По замечанию по заданию 3 в ветке `fix` создал дополнительный отдельный коммит:
+
+`92667e7 Add fix branch commit`
+
+После коммита ветка `fix` содержит два собственных коммита после ответвления от `main`.
+
+### Коммит в ветке fix
+
+![Отдельный коммит в ветке fix](screenshots/12_fix_branch_commit.png)
+
+### Ветка fix в GitHub
+
+На GitHub видно, что ветка `fix` содержит два коммита, которых нет в `main`.
+
+![Ветка fix с отдельными коммитами в GitHub](screenshots/13_fix_branch_commit_github.png)
